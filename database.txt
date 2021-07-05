@@ -1,0 +1,7 @@
+#store imformation that the server receives
+#email, subject, content
+#even that the sever is closed. We also could come back to take the information
+
+
+a@a.com, a, aaaaa
+x@x.com, y, zzz
